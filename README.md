@@ -1,2 +1,2 @@
-# Datapacks
-Official datapacks for The Aether Team's mods.
+# Data Packs
+Official data packs for The Aether Team's mods.
