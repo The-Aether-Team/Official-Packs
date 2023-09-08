@@ -7,3 +7,4 @@ This repository contains official resource packs and data packs created by The A
 ## :package: Download the latest releases
 ### Release builds
 * [Aether Data Pack: Temporary Freezing](https://modrinth.com/datapack/aether-temporary-freezing)
+* [Aether Data Pack: Ruined Portals](https://modrinth.com/datapack/aether-ruined-portals)
